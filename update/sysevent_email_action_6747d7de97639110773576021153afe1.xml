@@ -49,7 +49,7 @@
         <push_message_only>false</push_message_only>
         <recipient_fields>assigned_to</recipient_fields>
         <recipient_groups/>
-        <recipient_users>akshay@guerrillamail.com</recipient_users>
+        <recipient_users>6816f79cc0a8016401c5a33be04be441,akshay.kamboj@servicenow.com</recipient_users>
         <reply_to/>
         <send_self>true</send_self>
         <sms_alternate/>
